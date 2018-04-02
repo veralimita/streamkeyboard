@@ -1,0 +1,15 @@
+{
+  "options": {
+    "debug": false
+  },
+  "connection": {
+    "reconnect": true
+  },
+  "identity": {
+    "username": "couchplaygirl",
+    "password": ""
+  },
+  "channels": [
+    "#couchplaygirl"
+  ]
+}
